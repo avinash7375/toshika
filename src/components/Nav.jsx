@@ -11,10 +11,10 @@ const Navbar = () => {
       </div>
 
       <ul className="nav-links">
-        <li><a href="#" className="active">Home</a></li>
-        <li><a href="#">Our Collection</a></li>
-        <li><a href="#">Contact</a></li>
-        <li><a href="#">About Toshika</a></li>
+        <li><a href="" className="active">Home</a></li>
+        <li><a href="">Our Collection</a></li>
+        <li><a href="">Contact</a></li>
+        <li><a href="">About Toshika</a></li>
       </ul>
 
       <div className="nav-icons">
