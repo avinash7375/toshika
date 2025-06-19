@@ -1,0 +1,23 @@
+.collect1 {
+    height: 400px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.collect img {
+    height: 370px;
+    width: 370px;
+}
+
+.collect {
+    margin-top: 50px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
